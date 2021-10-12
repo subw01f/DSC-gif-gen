@@ -1,0 +1,2 @@
+0       *       *       *       *       python3 /root/DSC-gif-gen/dsc_download.py >> ~/.cron.log
+0       2       *       *       *       /bin/bash /root/DSC-gif-gen/DSC_cleaner.sh >> ~/.cron.log
